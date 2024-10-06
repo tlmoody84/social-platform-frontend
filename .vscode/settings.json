@@ -3,6 +3,7 @@
         "logomark",
         "nextjs",
         "supabase",
-        "tailwindcss"
+        "tailwindcss",
+        "tanstack"
     ]
 }
